@@ -27,7 +27,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/speak-ai.git
+   git clone https://github.com/xbensieve/SpeakAI-Backend.git
    ```
 
 2. **Navigate to the Project Directory**
